@@ -1,0 +1,54 @@
+Atlas End User License Agreement
+
+Copyright (c) 2026 LBO-base. All rights reserved.
+
+This repository distributes compiled binaries of Atlas. The source code is not
+published and is not covered by this agreement.
+
+1. Licence grant
+
+   You may download, install and use Atlas free of charge, for personal or
+   commercial purposes, on any number of computers that you own or control.
+
+2. Restrictions
+
+   You may not sell, rent, sublicense or otherwise distribute Atlas or any part
+   of it, whether modified or unmodified, without prior written permission.
+
+   You may not remove or alter any copyright or attribution notices.
+
+   You may not decompile, disassemble or otherwise attempt to derive the source
+   code of Atlas, except to the extent that this restriction is prohibited by
+   applicable law (for example, where the law grants you a right to do so for
+   interoperability purposes).
+
+3. No warranty
+
+   Atlas is provided "as is", without warranty of any kind, express or implied,
+   including but not limited to the warranties of merchantability, fitness for a
+   particular purpose and non-infringement.
+
+   Atlas reads and can modify your local session files, including deleting,
+   renaming and merging them. You are responsible for keeping backups of any
+   data you care about.
+
+4. Limitation of liability
+
+   In no event shall the copyright holder be liable for any claim, damages or
+   other liability, whether in an action of contract, tort or otherwise, arising
+   from, out of or in connection with Atlas or the use of or other dealings in
+   Atlas.
+
+5. Third-party components
+
+   Atlas includes third-party software distributed under its own licence terms,
+   including the Node.js runtime (MIT licence) in the bundled installer and
+   components of the Tauri framework and the Rust ecosystem (MIT and Apache 2.0
+   licences). Those components remain governed by their respective licences, and
+   their licence texts are included with the installed application where
+   required.
+
+6. Updates
+
+   Atlas can check for and install updates from servers operated by the
+   copyright holder. This behaviour can be disabled in the application settings.
